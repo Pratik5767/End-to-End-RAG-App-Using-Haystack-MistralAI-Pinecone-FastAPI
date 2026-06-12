@@ -1,0 +1,6 @@
+pinecone-haystack
+google-ai-haystack
+fastapi
+uvicorn
+python-dotenv
+pathlib

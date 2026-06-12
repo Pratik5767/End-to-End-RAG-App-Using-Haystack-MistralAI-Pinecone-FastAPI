@@ -1,0 +1,10 @@
+setup.py
+QASystem/__init__.py
+QASystem/ingestion.py
+QASystem/retrievalandgeneration.py
+QASystem/utility.py
+QAsystem_using_haystack_mistrialai_pinecore_fastapi.egg-info/PKG-INFO
+QAsystem_using_haystack_mistrialai_pinecore_fastapi.egg-info/SOURCES.txt
+QAsystem_using_haystack_mistrialai_pinecore_fastapi.egg-info/dependency_links.txt
+QAsystem_using_haystack_mistrialai_pinecore_fastapi.egg-info/requires.txt
+QAsystem_using_haystack_mistrialai_pinecore_fastapi.egg-info/top_level.txt

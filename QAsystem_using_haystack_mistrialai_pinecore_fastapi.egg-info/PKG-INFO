@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: QAsystem-using-haystack-mistrialai-pinecore-fastapi
+Version: 0.0.1
+Author: pratik
+Author-email: pratikvsalunkhe924@gmail.com
+Requires-Dist: pinecone-haystack
+Requires-Dist: google-ai-haystack
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: python-dotenv
+Requires-Dist: pathlib
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
