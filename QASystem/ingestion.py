@@ -26,7 +26,7 @@ def ingest(document_store):
 
     indexing.run({
         "converter": {
-            "sources": [Path("D:\\Pratik\\AI\\End to End RAG App Using Haystack MistralAI Pinecone & FastAPI\\data\\Retrieval-Augmented generation for knowledge intensive nlp tasks.pdf")]
+            "sources": [Path("D:\\Pratik\\AI\\End to End RAG App Using Haystack MistralAI Pinecone & FastAPI\\data\\Retrieval-Augmented-Generation-for-NLP.pdf")]
         }
     })
 
